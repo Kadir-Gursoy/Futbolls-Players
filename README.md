@@ -1,3 +1,5 @@
+![Animation](https://github.com/Kadir-Gursoy/Futbolls-Players/blob/main/animation.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
